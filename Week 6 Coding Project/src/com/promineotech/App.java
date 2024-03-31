@@ -63,7 +63,7 @@ public class App {
     		}
     }
     
-    // TESTING
+    // TESTING TO SEE PLAYER HANDS
     System.out.println("Player One Hand");
     playerOne.describe();
     System.out.println("Player Two Hand");
